@@ -95,3 +95,4 @@ from . import simpleitk  # noqa
 from . import gdal  # noqa
 
 from . import example  # noqa
+from . import flif
